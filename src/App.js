@@ -6,6 +6,7 @@ import Filter from './components/Filter';
 import Notification from './components/Notification';
 import { initializeAnecdotes } from './reducers/anecdoteReducer';
 
+// Test
 const App = () => {
     const dispatch = useDispatch();
 
